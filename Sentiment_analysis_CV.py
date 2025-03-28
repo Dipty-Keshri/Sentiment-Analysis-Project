@@ -690,15 +690,15 @@ st.markdown("""
             <span style="font-weight: bold; color: #4E79A7;">NLP Specialist</span>
         </div>
     </div>
-    <p style="font-size: 1.1rem; margin-bottom: 0.5rem;">Developed with ❤️ by <strong>[Your Name]</strong></p>
+    <p style="font-size: 1.1rem; margin-bottom: 0.5rem;">Developed with ❤️ by <strong>[Dipty Keshri]</strong></p>
     <div style="display: flex; justify-content: center; gap: 1rem; margin-top: 0.5rem;">
-        <a href="https://github.com/yourusername" target="_blank" style="text-decoration: none; color: #4E79A7;">
+        <a href="https://github.com/Dipty-Keshri" target="_blank" style="text-decoration: none; color: #4E79A7;">
             <span style="font-weight: bold;">GitHub</span>
         </a>
-        <a href="https://linkedin.com/in/yourprofile" target="_blank" style="text-decoration: none; color: #4E79A7;">
+        <a href="https://www.linkedin.com/in/diptykeshri/" target="_blank" style="text-decoration: none; color: #4E79A7;">
             <span style="font-weight: bold;">LinkedIn</span>
         </a>
-        <a href="mailto:your.email@example.com" target="_blank" style="text-decoration: none; color: #4E79A7;">
+        <a href="mailto:diptykeshri05@gmail.com" target="_blank" style="text-decoration: none; color: #4E79A7;">
             <span style="font-weight: bold;">Email</span>
         </a>
     </div>
